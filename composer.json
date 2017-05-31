@@ -1,0 +1,7 @@
+{
+    "name": "kukulich/inline-css-test",
+    "require": {
+        "tijsverkoyen/css-to-inline-styles": "^2.2",
+        "jyxo/php": "^4.2"
+    }
+}
